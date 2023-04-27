@@ -1,9 +1,14 @@
+.main_font {
+    font-family: Calibri;
+}
+
 body{
     background-color: rgb(255, 125, 0);
 }
 
 table{
     border: 1px solid #000000;
+    text-align: center;
 }
 
 thead,
